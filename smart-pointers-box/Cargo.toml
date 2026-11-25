@@ -2,5 +2,6 @@
 name = "smart-pointers-box"
 version = "0.1.0"
 edition = "2024"
+default-run = "smart-pointers-box"
 
 [dependencies]
