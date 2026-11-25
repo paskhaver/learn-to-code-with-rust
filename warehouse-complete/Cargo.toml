@@ -1,0 +1,8 @@
+[package]
+name = "warehouse"
+version = "0.1.0"
+edition = "2024"
+default-run = "warehouse"
+
+[dependencies]
+fake = { version = "=2.9.2", features = ["derive"] }
